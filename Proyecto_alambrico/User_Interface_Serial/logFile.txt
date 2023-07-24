@@ -1,0 +1,14 @@
+[11/7/2023||10:59:15]    =====>   LED 3:   ON
+[11/7/2023||10:59:22]    =====>   password attempt: 'password+'
+[11/7/2023||10:59:22]    =====>   Contraseña Correcta
+[11/7/2023||10:59:22]    =====>   Acceso a Control de motor validado
+[11/7/2023||10:59:24]    =====>   VELOCIDAD AJUSTADA AL nivel: 7
+[11/7/2023||10:59:25]    =====>   MOTOR:   ON
+[11/7/2023||10:59:28]    =====>   MOTOR:   OFF
+[11/7/2023||10:59:29]    =====>   MOTOR:   ON
+[11/7/2023||10:59:30]    =====>   DIRECCIÓN AJUSTADA: SENTIDO ANTI-HORARIO
+[11/7/2023||10:59:40]    =====>   Acceso a Control de motor validado
+[11/7/2023||10:59:41]    =====>   MOTOR:   OFF
+[11/7/2023||10:59:57]    =====>   Acceso a Control de motor validado
+[11/7/2023||11:0:0]    =====>   password attempt: 'password'
+[11/7/2023||11:0:0]    =====>   Contraseña Incorrecta

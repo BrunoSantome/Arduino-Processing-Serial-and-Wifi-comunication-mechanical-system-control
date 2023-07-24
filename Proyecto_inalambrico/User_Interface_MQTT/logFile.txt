@@ -1,0 +1,24 @@
+[19/6/2023||12:52:36]    =====>   LED 3:   ON
+[19/6/2023||12:52:36]    =====>   LED 3:   OFF
+[19/6/2023||12:52:36]    =====>   LED 3:   ON
+[19/6/2023||12:53:9]    =====>   LED 3:   OFF
+[19/6/2023||12:53:10]    =====>   LED 3:   ON
+[19/6/2023||12:53:13]    =====>   LED 3:   OFF
+[19/6/2023||12:53:14]    =====>   LED 3:   ON
+[19/6/2023||12:53:48]    =====>   Intento de acceso: 'password+'
+[19/6/2023||12:53:48]    =====>   Contraseña correcta
+[19/6/2023||12:53:54]    =====>   Acceso a Control de motor validado
+[19/6/2023||12:54:0]    =====>   VELOCIDAD AJUSTADA: 206 RPM
+[19/6/2023||12:54:1]    =====>   MOTOR:   ON
+[19/6/2023||12:54:10]    =====>   VELOCIDAD AJUSTADA: 255 RPM
+[19/6/2023||12:54:13]    =====>   VELOCIDAD AJUSTADA: 150 RPM
+[19/6/2023||12:54:15]    =====>   VELOCIDAD AJUSTADA: 255 RPM
+[19/6/2023||12:54:17]    =====>   MOTOR:   OFF
+[19/6/2023||12:54:18]    =====>   MOTOR:   ON
+[19/6/2023||12:54:21]    =====>   DIRECCIÓN AJUSTADA: SENTIDO ANTIHORARIO
+[19/6/2023||12:54:24]    =====>   VELOCIDAD AJUSTADA: 150 RPM
+[19/6/2023||12:54:25]    =====>   DIRECCIÓN AJUSTADA: SENTIDO HORARIO
+[19/6/2023||12:54:27]    =====>   DIRECCIÓN AJUSTADA: SENTIDO ANTIHORARIO
+[19/6/2023||12:54:29]    =====>   DIRECCIÓN AJUSTADA: SENTIDO HORARIO
+[19/6/2023||12:54:30]    =====>   DIRECCIÓN AJUSTADA: SENTIDO ANTIHORARIO
+[19/6/2023||12:54:35]    =====>   MOTOR:   OFF
